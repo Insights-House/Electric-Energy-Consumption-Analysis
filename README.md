@@ -13,7 +13,7 @@ The more hours the more active the larger consumption.
 At the begining of the week and end of the week, there are more ative hours and therefore consumption
 The worst the weather the higher kwH consumption.
 
-#Conclusions 
+# Conclusions 
 Not big differences spotted between situation with app and before app, most propbably because consumption behaviour was much the same and data was only processed for 1 month.
 Nevertheless differences show clear benefits of using monitoring app in order to optimize costs and consumption behaviour.
 The short answer is Yes use the monitoring app as on a longer term it may be even more usefull. 
