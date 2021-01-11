@@ -8,6 +8,27 @@ Processed time series
 Calculated before and after consumption
 Eextracted insights into seaborn darshboards
 
+# Consumption pattern before ussing monitoring app
+
+
+![consumption patterns before app](https://user-images.githubusercontent.com/47668423/104204513-a5fcc600-542d-11eb-8fe1-000464bde389.png)
+
+# Consumption pattern after ussing monitoring app
+
+
+![after app dash](https://user-images.githubusercontent.com/47668423/104204504-a4330280-542d-11eb-8051-3230028b9557.png)
+
+# Overalll difference before/after using monitoring app
+
+
+![diff before after](https://user-images.githubusercontent.com/47668423/104204515-a6955c80-542d-11eb-96fa-d3dae417f4cc.png)
+
+# Correlation insights
+
+
+![Trend corr](https://user-images.githubusercontent.com/47668423/104204516-a6955c80-542d-11eb-9de6-f0c4ebfc7362.png)
+
+
 # Trends 
 The more hours the more active the larger consumption.
 At the begining of the week and end of the week, there are more ative hours and therefore consumption
