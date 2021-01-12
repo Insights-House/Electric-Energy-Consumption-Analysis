@@ -23,6 +23,12 @@ Eextracted insights into seaborn darshboards
 
 ![diff before after](https://user-images.githubusercontent.com/47668423/104204515-a6955c80-542d-11eb-96fa-d3dae417f4cc.png)
 
+![saved KwH violin](https://user-images.githubusercontent.com/47668423/104348195-b41c1680-5501-11eb-9a12-ba21097c64b4.png)
+
+![newplot (8)](https://user-images.githubusercontent.com/47668423/104348188-b2525300-5501-11eb-81ca-16beee117a18.png)
+
+
+
 # Correlation insights
 
 
