@@ -48,11 +48,12 @@ I was given a data sample for one month in order to extract insights and enable 
 ![Trend corr](https://user-images.githubusercontent.com/47668423/104204516-a6955c80-542d-11eb-9de6-f0c4ebfc7362.png)
 
 
- -  Trends 
-   - The more hours the more active the larger consumption.
-   - At the begining of the week and end of the week.
-   - There are more active hours and therefore consumption.
-   - The worst the weather the higher kwH consumption.
+ - Trends
+
+    - The more hours the more active the larger consumption.
+    - At the begining of the week and end of the week.
+    - There are more active hours and therefore consumption.
+    - The worst the weather the higher kwH consumption.
 
 # Conclusions 
 Not big differences spotted between situation with app and before app, most propbably because consumption behaviour was much the same and data was only processed for 1 month.
