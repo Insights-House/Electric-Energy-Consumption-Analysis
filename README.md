@@ -1,7 +1,6 @@
 # Electric energy consumption trend identification
 
 - [Situation](#Situation)
-- [Task](#Task)
 - [Consumption before monitoring](#Consumption-pattern-before-using-monitoring-app)
 - [Consumption after monitoring](#Consumption-pattern-after-using-monitoring-app)
 - [Bigger picture](#Overall-difference-before/after-using-monitoring-app)
@@ -14,8 +13,7 @@
 # Situation
 My client wants to see if it is worth monitoring electrical energy in order to optimze costs and consumption behaviour.
 I was given a data sample for one month in order to extract insights and enable him to take the decision. 
-
-# Task
+- - Task
 Opened data
 Processed time series
 Calculated before and after consumption
