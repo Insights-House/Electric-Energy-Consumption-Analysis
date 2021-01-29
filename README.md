@@ -26,7 +26,7 @@ Eextracted insights into seaborn darshboards
 
 ![consumption patterns before app](https://user-images.githubusercontent.com/47668423/104204513-a5fcc600-542d-11eb-8fe1-000464bde389.png)
 
-# Consumption pattern after ussing monitoring app
+# Consumption pattern after using monitoring app
 
 
 ![after app dash](https://user-images.githubusercontent.com/47668423/104204504-a4330280-542d-11eb-8051-3230028b9557.png)
