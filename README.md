@@ -1,3 +1,9 @@
+# Electric energy consumption trend identification
+
+
+
+
+
 # Situation
 My client wants to see if it is worth monitoring electrical energy in order to optimze costs and consumption behaviour.
 I was given a data sample for one month in order to extract insights and enable him to take the decision. 
@@ -8,7 +14,7 @@ Processed time series
 Calculated before and after consumption
 Eextracted insights into seaborn darshboards
 
-# Consumption pattern before using monitoring app
+# Consumption pattern before ussing monitoring app
 
 
 ![consumption patterns before app](https://user-images.githubusercontent.com/47668423/104204513-a5fcc600-542d-11eb-8fe1-000464bde389.png)
@@ -26,7 +32,6 @@ Eextracted insights into seaborn darshboards
 ![saved KwH violin](https://user-images.githubusercontent.com/47668423/104348195-b41c1680-5501-11eb-9a12-ba21097c64b4.png)
 
 ![newplot (8)](https://user-images.githubusercontent.com/47668423/104348188-b2525300-5501-11eb-81ca-16beee117a18.png)
-
 
 
 # Correlation insights
