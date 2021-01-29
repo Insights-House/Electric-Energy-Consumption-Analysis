@@ -2,10 +2,10 @@
 
 - [Situation](#Situation)
 - [Task](#Task)
-- [Consumption before monitoring](#Consumption pattern before using monitoring app)
-- [Consumption after monitoring](#Consumption pattern after using monitoring app)
-- [Bigger pictuure](#Overalll difference before/after using monitoring app)
-- [Correlation heatmap](#Correlation insights)
+- [Consumption before monitoring](#Consumption-pattern-before-using-monitoring app)
+- [Consumption after monitoring](#Consumption-pattern-after-using-monitoring-app)
+- [Bigger picture](#Overall-difference-before/after-using-monitoring app)
+- [Correlation heatmap](#Correlation-insights)
 - [Trends](#Trends)
 - [Conclusions](#Conclusions)
 
@@ -31,7 +31,7 @@ Eextracted insights into seaborn darshboards
 
 ![after app dash](https://user-images.githubusercontent.com/47668423/104204504-a4330280-542d-11eb-8051-3230028b9557.png)
 
-# Overalll difference before/after using monitoring app
+# Overall difference before/after using monitoring app
 
 
 ![diff before after](https://user-images.githubusercontent.com/47668423/104204515-a6955c80-542d-11eb-96fa-d3dae417f4cc.png)
