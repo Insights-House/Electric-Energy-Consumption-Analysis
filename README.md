@@ -21,7 +21,7 @@ Processed time series
 Calculated before and after consumption
 Eextracted insights into seaborn darshboards
 
-# Consumption pattern before ussing monitoring app
+# Consumption pattern before using monitoring app
 
 
 ![consumption patterns before app](https://user-images.githubusercontent.com/47668423/104204513-a5fcc600-542d-11eb-8fe1-000464bde389.png)
