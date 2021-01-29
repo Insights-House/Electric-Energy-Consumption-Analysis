@@ -4,7 +4,7 @@
 - [Task](#Task)
 - [Consumption before monitoring](#Consumption-pattern-before-using-monitoring app)
 - [Consumption after monitoring](#Consumption-pattern-after-using-monitoring-app)
-- [Bigger picture](#Overall-difference-before/after-using-monitoring app)
+- [Bigger picture](#Overall-difference-before/after-using-monitoring-app)
 - [Correlation heatmap](#Correlation-insights)
 - [Trends](#Trends)
 - [Conclusions](#Conclusions)
