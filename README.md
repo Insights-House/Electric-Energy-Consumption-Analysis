@@ -49,9 +49,10 @@ I was given a data sample for one month in order to extract insights and enable 
 
 
 # Trends 
-The more hours the more active the larger consumption.
-At the begining of the week and end of the week, there are more ative hours and therefore consumption
-The worst the weather the higher kwH consumption.
+  - The more hours the more active the larger consumption.
+  - At the begining of the week and end of the week.
+  - There are more active hours and therefore consumption.
+  - The worst the weather the higher kwH consumption.
 
 # Conclusions 
 Not big differences spotted between situation with app and before app, most propbably because consumption behaviour was much the same and data was only processed for 1 month.
