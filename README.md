@@ -14,11 +14,11 @@
 # Situation
 My client wants to see if it is worth monitoring electrical energy in order to optimze costs and consumption behaviour.
 I was given a data sample for one month in order to extract insights and enable him to take the decision. 
- - Task
-    -  Opened data
+ - Tasks
+    - Opened data
     - Processed time series
     - Calculated before and after consumption
-    - Extracted insights into seaborn darshboards
+    - Extracted insights into Seaborn dashboards
 
 # Consumption pattern before using monitoring app
 
