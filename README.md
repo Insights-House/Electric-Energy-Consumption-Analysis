@@ -6,7 +6,7 @@
 - [Bigger picture](#Overall-difference-before/after-using-monitoring-app)
 - [Trend plot](#Relationship-between-saved-energy-and-temperature)
 - [Correlation heatmap](#Correlation-insights)
-- [Trends](#Trends)
+- [Insights](#Insights)
 - [Conclusions](#Conclusions)
 
 
@@ -47,6 +47,7 @@ I was given a data sample for one month in order to extract insights and enable 
 
 ![Trend corr](https://user-images.githubusercontent.com/47668423/104204516-a6955c80-542d-11eb-9de6-f0c4ebfc7362.png)
 
+# Insights
 
  - Trends
 
@@ -56,6 +57,10 @@ I was given a data sample for one month in order to extract insights and enable 
     - The worst the weather the higher kwH consumption.
 
 # Conclusions 
-Not big differences spotted between situation with app and before app, most propbably because consumption behaviour was much the same and data was only processed for 1 month.
-Nevertheless differences show clear benefits of using monitoring app in order to optimize costs and consumption behaviour.
-The short answer is Yes use the monitoring app as on a longer term it may be even more usefull. 
+
+ - Suggestions
+ 
+    - Not big differences spotted between situation with app and before app.
+    - Most propbably because consumption behaviour was much the same and data was only processed for 1 month.
+    - Nevertheless differences show clear benefits of using monitoring app in order to optimize costs and consumption behaviour.
+    - Yes use the monitoring app as on a longer term it may be even more usefull. 
